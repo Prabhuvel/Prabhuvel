@@ -1,49 +1,46 @@
-<h1 align="center">Hi 👋, I'm Prabhuvel R</h1>
+<div align="center">
 
-<h3 align="center">📊 Aspiring Data Analyst | Third-Year Electronics Student</h3>
+# Hi, I'm Prabhuvel R 👋
 
-<p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=Aspiring+Data+Analyst;SQL+%7C+Excel+%7C+Power+BI;Python+%7C+R+Programming;Building+Data-Driven+Projects;Always+Learning+Something+New" alt="Typing SVG" />
-  </a>
-</p>
+### 📊 Aspiring Data Analyst
 
-<p align="center">
-Turning data into meaningful insights, one dataset at a time.
-</p>
+Turning raw data into meaningful insights.
 
----
-
-## 🌐 Connect With Me
-
-<p align="center">
+<br>
 
 <a href="https://www.linkedin.com/in/prabhuvel-r-0b6112335/">
-<img src="https://skillicons.dev/icons?i=linkedin" width="50"/>
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
-
-&nbsp;&nbsp;
 
 <a href="mailto:onprrprabhuvel05@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail" width="50"/>
+  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-</p>
+</div>
 
 ---
 
 ## 👨‍💻 About Me
 
-- 🎓 Third-Year Electronics Student (Junior Year)
-- 📊 Aspiring Data Analyst
-- 🌱 Currently learning **SQL, Excel, Power BI, Python & R**
-- 📍 Chennai, India
-- 🎯 Looking for Data Analyst Internship opportunities
-- 💡 Passionate about transforming raw data into meaningful insights
+🎓 Third-Year Electronics Student (Junior Year)
+
+📍 Chennai, India
+
+🌱 Currently learning
+
+- SQL
+- Excel
+- Power BI
+- Python
+- R
+
+🎯 Goal
+
+Become a Data Analyst and build real-world data solutions.
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠 Tech Stack
 
 <p align="center">
 
@@ -53,7 +50,7 @@ Turning data into meaningful insights, one dataset at a time.
 
 <p align="center">
 
-<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
+<img src="https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
 
 <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black"/>
 
@@ -61,35 +58,22 @@ Turning data into meaningful insights, one dataset at a time.
 
 ---
 
-## 📚 Currently Learning
+## 📚 Currently Working On
 
-- SQL
-- Excel
-- Power BI
-- Python
+- SQL Practice
+- Power BI Dashboards
+- Python for Data Analysis
 - R Programming
 
 ---
 
-## 🎯 Goals for 2026
-
-- ✅ Master SQL
-- ✅ Learn Advanced Excel
-- ✅ Build Interactive Power BI Dashboards
-- ✅ Strengthen Python for Data Analysis
-- ✅ Learn R Programming
-- 🔲 Build 10+ Data Analytics Projects
-- 🔲 Secure a Data Analyst Internship
-
----
-
-## 📊 GitHub Statistics
+## 📈 GitHub Stats
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Prabhuvel&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Prabhuvel&theme=tokyonight&show_icons=true&hide_border=true"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prabhuvel&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prabhuvel&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </p>
 
@@ -101,38 +85,8 @@ Turning data into meaningful insights, one dataset at a time.
 
 ---
 
-## 🏆 GitHub Trophies
+<div align="center">
 
-<p align="center">
+*"Learn. Build. Improve. Repeat."*
 
-<img src="https://github-profile-trophy.vercel.app/?username=Prabhuvel&theme=tokyonight&no-frame=true&row=1&column=6"/>
-
-</p>
-
----
-
-## ✍️ Random Dev Quote
-
-<p align="center">
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
-
-</p>
-
----
-
-<p align="center">
-
-### 👀 Visitor Count
-
-<img src="https://komarev.com/ghpvc/?username=Prabhuvel&label=Profile%20Views&color=0e75b6&style=flat"/>
-
-</p>
-
----
-
-<h3 align="center">
-
-⭐ Learning every day. Building one project at a time.
-
-</h3>
+</div>
