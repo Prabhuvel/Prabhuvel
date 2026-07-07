@@ -1,57 +1,86 @@
-# Hi there, I'm PrabhuvelR! 👋
+<div align="center">
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=PrabhuvelR&label=Profile%20views&color=4169E1&style=flat-square" alt="Profile Views" />
-</p>
+# Prabhuvel R
 
-> **Aspiring Data Analyst** focused on translating raw data into structured insights, optimizing database queries, and building clear visual narratives.
+### `Aspiring Data Analyst`
 
----
+*Turning data into meaningful insights.*
 
-## 🛠️ Data Toolkit
+<br>
 
-### 🗄️ Database Management & Querying
-![SQL](https://img.shields.io/badge/SQL-00758F?style=flat-square&logo=mysql&logoColor=white) 
-*Writing clean, optimized queries, handling complex joins, and structuring data aggregations.*
+<a href="https://www.linkedin.com/in/prabhuvel-r-0b6112335/">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/>
+</a>
 
-### 🐍 Programming & Statistical Analysis
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) 
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white)
-*Data manipulation, automated cleaning, and exploratory data analysis (EDA).*
+<a href="mailto:onprrprabhuvel05@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white"/>
+</a>
 
-### 📊 Spreadsheets & Visualization
-![Excel](https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black) *(In Progress)*
-*Advanced formulas, pivot tracking, and building interactive, metric-driven dashboards.*
+</div>
 
 ---
 
-## 📈 Learning Journey & Focus
+##  About Me
 
-Right now, I am focusing on building end-to-end analytical workflows. Here is what I am actively working on:
-- 📉 **Advanced Power BI:** Mastering DAX formulations, data modeling, and automated report refreshing.
-- 📐 **Statistical Modeling:** Leveraging Python and R for predictive analysis and statistical significance testing.
-- 🏗️ **Dataset Curations:** Designing custom mock relational databases to practice advanced SQL optimizations.
+```yaml
+Name:          Prabhuvel R
+Location:      Chennai, India
+Education:     Third-Year Electronics Student
+Career Goal:   Data Analyst
+```
 
----
+I enjoy exploring data, finding patterns, and building solutions that transform raw information into meaningful insights.
 
-## 📊 Git Metrics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=PrabhuvelR&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PrabhuvelR&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="48%" />
-</p>
+Currently focused on developing strong foundations in SQL, Excel, Power BI, Python, and R.
 
 ---
 
-## 🤝 Let's Connect
+##  Tech Stack
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/prabhuvel-r" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:onprrprabhuvel05@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-  </a>
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=python,mysql,r,git,github,vscode" />
+
+<br><br>
+
+<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black"/>
+
+</div>
+
+---
+
+##  Currently Learning
+
+- SQL
+- Advanced Excel
+- Power BI
+- Python
+- R Programming
+
+---
+
+##  2026 Goals
+
+- Master SQL
+- Build interactive Power BI dashboards
+- Complete Python for Data Analysis
+- Learn R for Data Analytics
+- Build a strong Data Analytics portfolio
+- Secure a Data Analyst Internship
+
+---
+
+##  Philosophy
+
+> **Learn → Build → Improve → Repeat**
+
+---
+
+<div align="center">
+
+*"Every dataset has a story. My goal is to learn how to tell it."*
+
+</div>
 </p>
