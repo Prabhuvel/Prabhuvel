@@ -65,11 +65,11 @@ Turning data into meaningful insights, one dataset at a time.
 ## 📊 GitHub Stats
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Prabhuvel&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Prabhuvel-R&show_icons=true&theme=tokyonight&hide_border=true"/>
 </p>
 
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Prabhuvel&theme=tokyonight&hide_border=true"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Prabhuvel-R&theme=tokyonight&hide_border=true"/>
 </p>
 
 <p align="center">
