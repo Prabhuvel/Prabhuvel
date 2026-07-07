@@ -1,92 +1,57 @@
-<div align="center">
+# Hi there, I'm PrabhuvelR! 👋
 
-# Hi, I'm Prabhuvel R 👋
-
-### 📊 Aspiring Data Analyst
-
-Turning raw data into meaningful insights.
-
-<br>
-
-<a href="https://www.linkedin.com/in/prabhuvel-r-0b6112335/">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="mailto:onprrprabhuvel05@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-</div>
-
----
-
-## 👨‍💻 About Me
-
-🎓 Third-Year Electronics Student (Junior Year)
-
-📍 Chennai, India
-
-🌱 Currently learning
-
-- SQL
-- Excel
-- Power BI
-- Python
-- R
-
-🎯 Goal
-
-Become a Data Analyst and build real-world data solutions.
-
----
-
-## 🛠 Tech Stack
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=python,mysql,r,git,github,vscode"/>
-
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=PrabhuvelR&label=Profile%20views&color=4169E1&style=flat-square" alt="Profile Views" />
 </p>
 
+> **Aspiring Data Analyst** focused on translating raw data into structured insights, optimizing database queries, and building clear visual narratives.
+
+---
+
+## 🛠️ Data Toolkit
+
+### 🗄️ Database Management & Querying
+![SQL](https://img.shields.io/badge/SQL-00758F?style=flat-square&logo=mysql&logoColor=white) 
+*Writing clean, optimized queries, handling complex joins, and structuring data aggregations.*
+
+### 🐍 Programming & Statistical Analysis
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) 
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white)
+*Data manipulation, automated cleaning, and exploratory data analysis (EDA).*
+
+### 📊 Spreadsheets & Visualization
+![Excel](https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black) *(In Progress)*
+*Advanced formulas, pivot tracking, and building interactive, metric-driven dashboards.*
+
+---
+
+## 📈 Learning Journey & Focus
+
+Right now, I am focusing on building end-to-end analytical workflows. Here is what I am actively working on:
+- 📉 **Advanced Power BI:** Mastering DAX formulations, data modeling, and automated report refreshing.
+- 📐 **Statistical Modeling:** Leveraging Python and R for predictive analysis and statistical significance testing.
+- 🏗️ **Dataset Curations:** Designing custom mock relational databases to practice advanced SQL optimizations.
+
+---
+
+## 📊 Git Metrics
+
 <p align="center">
-
-<img src="https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black"/>
-
+  <img src="https://github-readme-stats.vercel.app/api?username=PrabhuvelR&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PrabhuvelR&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="48%" />
 </p>
 
 ---
 
-## 📚 Currently Working On
+## 🤝 Let's Connect
 
-- SQL Practice
-- Power BI Dashboards
-- Python for Data Analysis
-- R Programming
-
----
-
-## 📈 GitHub Stats
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Prabhuvel&theme=tokyonight&show_icons=true&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prabhuvel&layout=compact&theme=tokyonight&hide_border=true"/>
-
+<p align="left">
+  <a href="https://www.linkedin.com/in/prabhuvel-r" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:onprrprabhuvel05@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
 </p>
-
-<p align="center">
-
-<img src="https://streak-stats.demolab.com?user=Prabhuvel&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
-
-<div align="center">
-
-*"Learn. Build. Improve. Repeat."*
-
-</div>
